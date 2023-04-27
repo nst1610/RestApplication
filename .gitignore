@@ -1,0 +1,10 @@
+RESTApplicationAPI/target/
+RESTApplicationAPI/.idea/
+RESTApplicationAPI/.mvn/
+RESTApplicationAPI/mvnw
+RESTApplicationAPI/mvnw.cmd
+RESTApplicationAPI/src/main/resources/application.properties
+
+RESTApplicationClient/target/
+RESTApplicationClient/.idea/
+
