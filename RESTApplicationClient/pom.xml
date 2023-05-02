@@ -27,6 +27,13 @@
             <version>6.0.8</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.knowm.xchart</groupId>
+            <artifactId>xchart</artifactId>
+            <version>3.8.3</version>
+        </dependency>
+
+
     </dependencies>
 
 </project>
